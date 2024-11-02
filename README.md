@@ -2,7 +2,8 @@
 - [Henrique Bouwman](https://github.com/henriquebouwman)  
 - [Manuel Galvão](https://github.com/manuelfgalvao)  
 - [Lucas Ferreira](https://github.com/lukitas20-beep)
-- [João Rietra] (https://github.com/jhlr)
+- [João Rietra](https://github.com/jhlr)
+
 **Disciplina**: Programação Imperativa e Funcional  
 **Instituição**: CESAR School  
 
@@ -16,7 +17,7 @@
 - Número de minas vizinhas: Se a célula não contém uma mina, ela mostrará um número indicando quantas minas existem nas células adjacentes.
 - Propagar células vazias: Se a célula for “0” (sem minas ao redor), ela abrirá automaticamente as células próximas até encontrar células com números.
 
-3.Marcar uma célula:
+3. Marcar uma célula:
 - Caso desconfie de uma mina, marque a célula. Você pode marcar quantas quiser, mas cuidado com marcações desnecessárias!
 - Para vencer, é preciso abrir todas as células livres de minas sem explodir nenhuma mina!
 
