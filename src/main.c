@@ -3,9 +3,9 @@
 #include <stdbool.h>
 #include <time.h>
 
-#include "cli/screen.h"
-#include "cli/keyboard.h"
-#include "cli/timer.h"
+#include "screen.h"
+#include "keyboard.h"
+#include "timer.h"
 
 
 const char
